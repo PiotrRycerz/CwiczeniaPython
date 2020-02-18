@@ -1,0 +1,5 @@
+imie=input("Jak masz na imię?")
+print("Cześć",imie)
+wiek=input("Ile masz lat?")
+peron=input("jaki jest numer peronu z Harrego Pottera?")
+print(imie,"w wieku",wiek,"lat już nie ma sensu jechać z peronu",peron)
